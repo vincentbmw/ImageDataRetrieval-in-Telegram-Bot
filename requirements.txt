@@ -1,0 +1,17 @@
+python-dotenv==1.0.0
+python-telegram-bot
+google-cloud-vision
+google-cloud-videointelligence
+google-generativeai
+llama-index
+chromadb
+transformers
+huggingface-hub
+scikit-learn==1.5.2
+gradio
+Pillow
+llama-index-embeddings-huggingface
+llama-index-llms-gemini
+llama-index-vector-stores-chroma
+chromadb
+logging
