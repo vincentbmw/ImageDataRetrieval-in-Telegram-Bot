@@ -124,4 +124,4 @@ ImageDataRetrieval-in-Telegram-Bot/
 
 ## Notes
 
-**Image Dataset**: To optimize processing time, this project uses only one image per breed. This approach speeds up the embedding and querying processes but may affect the accuracy of breed identification. For better accuracy, you can include more images per breed in the ./data/Images directory.
+**Image Dataset**: To optimize processing time, this project uses only one image per breed. This approach speeds up the embedding and querying processes but may affect the accuracy of breed identification. For better accuracy, you can include more images per breed in the ./data/Images directory. You can download the Image dataset from [Stanford Dogs Dataset on Kaggle](https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset)
